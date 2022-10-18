@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML tutorial</title>
+</head>
+<body>
+<h1>This is heading 6</h1>
+<h6>This is heading1</h6>
+<h2>This is heading2</h2>
+<h3>This is heading3</h3> 
+<h4>This is heading4</h4>
+<h5>This is heading5</h5>
+Sushruta puhan <br> <b>This is bold</b>
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet sapiente ea magnam explicabo asperiores cum <strong>This is strong</strong> fugiat <em>This is emphasized</em> dolore, dolores ab vitae <b>This is bold</b> modi corporis blanditiis  fugit laudantium reprehenderit vero, est quibusdam!
+</body>
+</html>
